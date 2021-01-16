@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Mike][website]</h1>
+<h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">computer science student, developer, and mentor</h3>
 
 - 🔭 I’m currently working on **React and Angular**

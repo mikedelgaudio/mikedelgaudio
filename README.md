@@ -1,10 +1,13 @@
-### Hi there, I'm [Mike][website] 👋
+<h1 align="center">Hi 👋, I'm [Mike][website]</h1>
+<h3 align="center">computer science student, developer, and mentor</h3>
+
+- 🔭 I’m currently working on **React and Angular**
+
+- 🌱 I’m currently learning **Redux**
 
 [![Website](https://img.shields.io/website?label=delgaudiomike.com&style=for-the-badge&url=https%3A%2F%2Fdelgaudiomike.com)](https://delgaudiomike.com)
 
 [![My Resume](https://img.shields.io/website?label=my%20resume&style=for-the-badge&url=https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)](https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)
-
-## I'm a Computer Science Student, Developer, and Mentor!!
 
 ### Connect with me:
 

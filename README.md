@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React and Angular**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux and GraphQL**
 
 [![Website](https://img.shields.io/website?label=delgaudiomike.com&style=for-the-badge&url=https%3A%2F%2Fdelgaudiomike.com)](https://delgaudiomike.com)
 
@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="delgaudiomike.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mike DelGaudio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mike DelGaudio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="delgaudiomike.com" width="22px" src="https://icons-for-free.com/iconfiles/png/512/internet+web+website+icon-1320183419780460914.png" />][website]
+[<img align="left" alt="Mike DelGaudio | YouTube" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
+[<img align="left" alt="Mike DelGaudio | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 

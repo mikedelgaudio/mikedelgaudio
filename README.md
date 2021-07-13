@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">computer science student, developer, and mentor</h3>
+<h1 align="center">Hi, I'm Mike 👋</h1>
+<h3 align="center">computer science student, developer, and technical writer</h3>
 
-- 🔭 I’m currently working on **React and Angular**
+- 🔭 I’m currently working on **React and UX**
 
-- 🌱 I’m currently learning **Redux and GraphQL**
+- 🌱 I’m currently learning **UX Patterns and Preact**
 
 [![Website](https://img.shields.io/website?label=delgaudiomike.com&style=for-the-badge&url=https%3A%2F%2Fdelgaudiomike.com)](https://delgaudiomike.com)
 

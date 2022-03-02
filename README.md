@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ngRx and Git Pre-Commit Hooks**
 
-[![Website](https://img.shields.io/website?label=delgaudiomike.com&style=for-the-badge&url=https%3A%2F%2Fdelgaudiomike.com)](https://delgaudiomike.com)
-
 [![My Resume](https://img.shields.io/website?label=my%20resume&style=for-the-badge&url=https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)](https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)
 
 ### Connect with me:
@@ -14,8 +12,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-008a83?style=flat-square)][website]
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white)][youtube]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-
-<br />
 
 ### Languages:
 

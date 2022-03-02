@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mike 👋</h1>
 <h3 align="center">computer science student, software engineer, and writer</h3>
 
-- 🔭 I’m currently working on **Angular and SAP's Spartacus**
+- 🔭 I’m currently working on **Angular and Redux**
 
-- 🌱 I’m currently learning **ngRx and CMS**
+- 🌱 I’m currently learning **ngRx and Git Pre-Commit Hooks**
 
 [![Website](https://img.shields.io/website?label=delgaudiomike.com&style=for-the-badge&url=https%3A%2F%2Fdelgaudiomike.com)](https://delgaudiomike.com)
 
@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="delgaudiomike.com" width="22px" src="https://icons-for-free.com/iconfiles/png/512/internet+web+website+icon-1320183419780460914.png" />][website]
-[<img align="left" alt="Mike DelGaudio | YouTube" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
-[<img align="left" alt="Mike DelGaudio | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-008a83?style=flat-square)][website]
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white)][youtube]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 
 <br />
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mike 👋</h1>
 <h3 align="center">computer science student, software engineer, and writer</h3>
 
-- 🔭 I’m currently working on **Angular and Redux**
+- 🔭 I’m currently working on **Angular and React**
 
-- 🌱 I’m currently learning **ngRx and Git Pre-Commit Hooks**
+- 🌱 I’m currently learning **MobX and Observables**
 
 [![My Resume](https://img.shields.io/website?label=my%20resume&style=for-the-badge&url=https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)](https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)
 

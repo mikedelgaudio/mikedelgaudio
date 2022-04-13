@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mike 👋</h1>
 <h3 align="center">computer science student, software engineer, and writer</h3>
 
-- 🔭 I’m currently working on **Angular and React**
+- 🔭 I’m currently working on **Angular and React **
 
 - 🌱 I’m currently learning **MobX and Observables**
 

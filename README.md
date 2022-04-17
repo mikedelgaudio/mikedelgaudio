@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MobX and Observables**
 
-[![My Resume](https://img.shields.io/website?label=my%20resume&style=for-the-badge&url=https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)](https://github.com/mikedelgaudio/resume/blob/master/michael_delgaudio_resume.pdf)
-
 ### Connect with me:
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-008a83?style=flat-square)][website]

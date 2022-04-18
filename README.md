@@ -1,17 +1,20 @@
-<h1>Hi, I'm Mike 👋</h1>
-<h3>computer science student, software engineer, and writer</h3>
+## 👋 hello world
 
-- 🔭 I’m currently working on **Angular and React**
+[![GitHub Badge](https://img.shields.io/badge/-mikedelgaudio-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mikedelgaudio/)][github]
+[![Twitter Badge](https://img.shields.io/badge/-delgaudiomike-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/delgaudiomike/)][twitter]
+[![Linkedin Badge](https://img.shields.io/badge/-michaeldelgaudio-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-delgaudio/)][linkedin]
+[![YouTube Badge](https://img.shields.io/badge/-mikedelgaudio-ff0000?style=flat-square&logo=YouTube&logoColor=white)][youtube]
+![Repos Badge](https://badges.pufler.dev/repos/mikedelgaudio?style=flat-square)
+![Visits Badge](https://badges.pufler.dev/visits/mikedelgaudio/mikedelgaudio?style=flat-square)
 
-- 🌱 Also, learning **MobX and Observables**
+### 🔍 whoami
 
-### Connect with me:
+- 💻 I'm a software engineer intern working on Colgate's e-commerce team.
+- 🏫 I'm a senior computer science student at [Stevens Institute of Technology](https://www.stevens.edu/).
+- 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
+- 🌱 I'm learning [Mobx][mobx] and the inner workings of React.
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-008a83?style=flat-square)][website]
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white)][youtube]
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-
-### Languages:
+### 📎 what i've worked with:
 
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -34,3 +37,6 @@
 [website]: https://delgaudio.dev
 [youtube]: https://www.youtube.com/c/MikeDelGaudio
 [linkedin]: https://www.linkedin.com/in/michael-delgaudio/
+[twitter]: https://twitter.com/delgaudiomike
+[github]: https://github.com/mikedelgaudio
+[mobx]: https://github.com/mobxjs/mobx

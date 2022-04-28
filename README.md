@@ -32,7 +32,6 @@
 <br />
 
 ---
-
 [website]: https://delgaudio.dev
 [youtube]: https://www.youtube.com/c/MikeDelGaudio
 [linkedin]: https://www.linkedin.com/in/michael-delgaudio/

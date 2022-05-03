@@ -6,7 +6,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/mikedelgaudio?style=flat-square)
 ![Visits Badge](https://badges.pufler.dev/visits/mikedelgaudio/mikedelgaudio?style=flat-square)
 
-### 🔍 whoami
+###🔍 whoami
 
 - 💻 I'm a software engineer intern working on Colgate's e-commerce team.
 - 📚 I'm a senior computer science student at [Stevens Institute of Technology](https://www.stevens.edu/).

@@ -1,4 +1,4 @@
-## 👋 hello  world
+## 👋 hello world
 
 [![Twitter Badge](https://img.shields.io/badge/-delgaudiomike-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/delgaudiomike/)][twitter]
 [![Linkedin Badge](https://img.shields.io/badge/-michaeldelgaudio-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-delgaudio/)][linkedin]

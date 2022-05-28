@@ -8,7 +8,7 @@
 
 ### 🔍 whoami
 
-- 💻 I'm a software engineer intern working on Colgate's e-commerce team.
+- 💻 I'm a software engineer intern working on Microsoft's Windows Platform team.
 - 📚 I'm a senior computer science student at [Stevens Institute of Technology](https://www.stevens.edu/).
 - 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
 - 🌱 I'm learning [Mobx][mobx] and the inner workings of React.
@@ -30,7 +30,6 @@
 
 <br />
 <br />
----
 
 [website]: https://delgaudio.dev
 [youtube]: https://www.youtube.com/c/MikeDelGaudio

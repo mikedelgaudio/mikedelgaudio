@@ -7,7 +7,7 @@
 ### 🔍 whoami
 
 - 💻 I'm a software engineer intern working at Colgate's Hills e-Commerce.
-- 📚 I'm a senior computer science student at [Stevens Institute of Technology](https://www.stevens.edu/).
+- 📚 I'm a senior computer science student at [Stevens Institute of Technology][stevens].
 - 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
 - 🌱 I'm learning [Mobx][mobx] and the inner workings of React.
 
@@ -22,10 +22,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][website]
 
 <br />
 <br />
@@ -36,3 +33,4 @@
 [twitter]: https://twitter.com/delgaudiomike
 [github]: https://github.com/mikedelgaudio
 [mobx]: https://github.com/mobxjs/mobx
+[stevens]: https://www.stevens.edu

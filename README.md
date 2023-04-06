@@ -1,6 +1,5 @@
 ## 👋 hello world
 
-[![Twitter Badge](https://img.shields.io/badge/-delgaudiomike-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/delgaudiomike/)][twitter]
 [![Linkedin Badge](https://img.shields.io/badge/-michaeldelgaudio-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-delgaudio/)][linkedin]
 [![YouTube Badge](https://img.shields.io/badge/-mikedelgaudio-ff0000?style=flat-square&logo=YouTube&logoColor=white)][youtube]
 
@@ -9,7 +8,7 @@
 - 💻 I'm a software engineer intern working at Colgate's Hills e-Commerce.
 - 📚 I'm a senior computer science student at [Stevens Institute of Technology][stevens].
 - 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
-- 🌱 I'm learning [Mobx][mobx] and the inner workings of React.
+- 🌱 I'm learning [Astro][astro] and the inner workings of React.
 
 ### 📎 working with
 
@@ -30,7 +29,6 @@
 [website]: https://delgaudio.dev
 [youtube]: https://www.youtube.com/c/MikeDelGaudio
 [linkedin]: https://www.linkedin.com/in/michael-delgaudio/
-[twitter]: https://twitter.com/delgaudiomike
 [github]: https://github.com/mikedelgaudio
-[mobx]: https://github.com/mobxjs/mobx
+[astro]: https://astro.build/
 [stevens]: https://www.stevens.edu

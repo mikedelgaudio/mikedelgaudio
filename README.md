@@ -8,7 +8,7 @@
 - 💻 I'm a software engineer intern working at Colgate's Hills e-Commerce.
 - 📚 I'm a senior computer science student at [Stevens Institute of Technology][stevens].
 - 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
-- 🌱 I'm learning [Astro][astro] and an open-source headless CMS, [Strapi][strapi].
+- 🌱 I'm learning [Astro][astro] and an open-source headless CMS [Strapi][strapi].
 
 ### 📎 working with
 

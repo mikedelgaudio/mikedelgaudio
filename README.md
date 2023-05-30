@@ -7,7 +7,7 @@
 
 - 💻 I'm a software engineer working at Microsoft.
 - 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
-- 🌱 I'm learning [Astro][astro] and an open-source headless CMS [Strapi][strapi].
+- 🌱 I'm learning [Astro][astro] and an open-source headless CMS [Strapi][strapi], as well as Preact.
 
 ### 📎 working with
 

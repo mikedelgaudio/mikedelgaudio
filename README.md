@@ -7,7 +7,7 @@
 
 - 💻 I'm a software engineer working at Microsoft.
 - 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
-- 🌱 I'm learning [Astro][astro] and an open-source headless CMS [Strapi][strapi], as well as Preact.
+- 🌱 I'm learning [Preact][preact] and an open-source headless CMS [Strapi][strapi].
 
 ### 📎 working with
 
@@ -28,6 +28,6 @@
 [youtube]: https://www.youtube.com/c/MikeDelGaudio
 [linkedin]: https://www.linkedin.com/in/michael-delgaudio/
 [github]: https://github.com/mikedelgaudio
-[astro]: https://astro.build/
+[preact]: https://preactjs.com
 [stevens]: https://www.stevens.edu
 [strapi]: https://strapi.io/

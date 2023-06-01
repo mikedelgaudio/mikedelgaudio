@@ -28,6 +28,6 @@
 [youtube]: https://www.youtube.com/c/MikeDelGaudio
 [linkedin]: https://www.linkedin.com/in/michael-delgaudio/
 [github]: https://github.com/mikedelgaudio
-[preact]: https://preactjs.com
+[preact]: https://preactjs.com/
 [stevens]: https://www.stevens.edu
 [strapi]: https://strapi.io/

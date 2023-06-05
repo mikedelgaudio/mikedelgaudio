@@ -6,7 +6,7 @@
 ### 🔍 whoami
 
 - 💻 I'm a software engineer working at Microsoft.
-- 💬 Ask me about JavaScript, React, Angular, CSS, or Containerization.
+- 💬 Ask me about JavaScript, CSS, React, Angular, or Containerization.
 - 🌱 I'm learning [Preact][preact] and an open-source headless CMS [Strapi][strapi].
 
 ### 📎 working with

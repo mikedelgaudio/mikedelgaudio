@@ -1,7 +1,6 @@
 ## 👋 hello world
 
 [![Linkedin Badge](https://img.shields.io/badge/-michaeldelgaudio-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-delgaudio/)][linkedin]
-[![YouTube Badge](https://img.shields.io/badge/-mikedelgaudio-ff0000?style=flat-square&logo=YouTube&logoColor=white)][youtube]
 
 ### 🔍 whoami
 
